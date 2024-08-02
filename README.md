@@ -1,0 +1,1 @@
+Scripts used for processing of SERS spectra of individual micobacteria. For the operation (the main file is 'baselineMTB.m'), files from the ['Raman Spectrum Baseline Removal']([https://duckduckgo.com](https://www.mathworks.com/matlabcentral/fileexchange/69649-raman-spectrum-baseline-removal)) by Ayad Al-Rumaithi availiable from 
